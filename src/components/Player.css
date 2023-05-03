@@ -1,0 +1,33 @@
+.transcript-word {
+  color: black;
+}
+
+.transcript-word.active-word {
+  background-color: rgb(214, 214, 0);
+}
+
+.transcript-word.past-word {
+  color: gray;
+}
+
+.transcript-word.future-word {
+  color: rgb(0, 0, 214);
+}
+
+.audio-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.audio-controls {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  font-size: 16px;
+}
