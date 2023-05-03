@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/css/main.0e4f8dfc.css",
-    "main.js": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/js/main.b12f1d8f.js",
-    "static/js/787.25eec5c6.chunk.js": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/js/787.25eec5c6.chunk.js",
-    "static/media/Monologue.mp3": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/media/Monologue.f3cec65bf3f0dfa209e1.mp3",
-    "index.html": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/index.html",
-    "main.0e4f8dfc.css.map": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/css/main.0e4f8dfc.css.map",
-    "main.b12f1d8f.js.map": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/js/main.b12f1d8f.js.map",
-    "787.25eec5c6.chunk.js.map": "/yogesh-sirsat.github.io/syncing_transcript_with_audio/static/js/787.25eec5c6.chunk.js.map"
+    "main.css": "/syncing_transcript_with_audio/static/css/main.0e4f8dfc.css",
+    "main.js": "/syncing_transcript_with_audio/static/js/main.2c4b941f.js",
+    "static/js/787.25eec5c6.chunk.js": "/syncing_transcript_with_audio/static/js/787.25eec5c6.chunk.js",
+    "static/media/Monologue.mp3": "/syncing_transcript_with_audio/static/media/Monologue.f3cec65bf3f0dfa209e1.mp3",
+    "index.html": "/syncing_transcript_with_audio/index.html",
+    "main.0e4f8dfc.css.map": "/syncing_transcript_with_audio/static/css/main.0e4f8dfc.css.map",
+    "main.2c4b941f.js.map": "/syncing_transcript_with_audio/static/js/main.2c4b941f.js.map",
+    "787.25eec5c6.chunk.js.map": "/syncing_transcript_with_audio/static/js/787.25eec5c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e4f8dfc.css",
-    "static/js/main.b12f1d8f.js"
+    "static/js/main.2c4b941f.js"
   ]
 }
